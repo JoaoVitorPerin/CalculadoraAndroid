@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:backgroundTint">#006400</item>
+    </style>
+
+    <style name="ExibirTexto" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">50px</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TextoBotao" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">100px</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:backgroundTint">#006400</item>
+    </style>
+
+</resources>
