@@ -1,3 +1,9 @@
+//Alunos:
+//Gabriel de Freitas Lima
+//Igor Rubio Lazaroto
+//João Vitor Perin
+//Thiago Jungles Caron
+
 package com.example.calculadoraapp
 
 import androidx.appcompat.app.AppCompatActivity
